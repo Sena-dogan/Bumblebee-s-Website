@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownWorksLayout.astro
-title: 'Project 1'
+title: 'Pati Pati App'
 description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
 image:
     url: '/GitHub.webp'

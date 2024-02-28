@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownWorksLayout.astro
-title: 'Open-source 2'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+title: 'Shipgrande'
+description: 'Shipping rate calculation system'
 image:
     url: '/GitHub.webp'
     alt: 'GitHub wallpaper'
@@ -12,9 +12,14 @@ worksImage2:
     url: '/image-2.webp'
     alt: 'second image of your project.'
 platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
+stack: Flutter, Dart, MobX, Riverpod
+website: https://shipgrande.com/
 github: https://github.com/ttomczak3/Milky-Way
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+<p>
+        Shipgrande is a rate calculation system for FedEx shipping, developed with the latest version of Flutter and utilizing the Riverpod 2.0 framework for state management.
+    </p>
+    <p>
+        The app follows the MVVM architecture and employs rest APIs and Freezed classes for efficient UI models. It is built with a responsive design, ensuring a seamless user experience across multiple platforms.
+    </p>
