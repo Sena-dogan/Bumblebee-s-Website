@@ -9,18 +9,18 @@ const pageTitle = "Works";
     <div class="gif">
         <img width="300" height="259" alt="RaccoonLaptopGif" src="/laptop.webp"/>
     </div>
-    <h2>Experience</h2>
+    <h2>Projects</h2>
     <ul role="list" class="link-card-grid">
-        {allContributions.map((card) => <Card 
+        {allProjects.map((card) => <Card 
             url={card.url} 
             image={card.frontmatter.image.url} 
             title={card.frontmatter.title} 
             body={card.frontmatter.description}
         />)}
     </ul>
-    <h2>Projects</h2>
+    <h2>Experience</h2>
     <ul role="list" class="link-card-grid">
-        {allProjects.map((card) => <Card 
+        {allContributions.map((card) => <Card 
             url={card.url} 
             image={card.frontmatter.image.url} 
             title={card.frontmatter.title} 

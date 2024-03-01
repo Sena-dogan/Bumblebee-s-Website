@@ -1,20 +1,20 @@
 ---
 layout: ../../layouts/MarkdownWorksLayout.astro
-title: 'Pati Pati App'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+title: 'Pati Pati'
+description: 'Pati Pati is a pet adoption app that focuses on fast 2-tap pet adoption with a good UI.'
 image:
-    url: '/GitHub.webp'
+    url: '/static/pati_pati_app.jpg'
     alt: 'GitHub wallpaper'
 worksImage1:
-    url: '/image-1.webp'
+    url: '/static/pati_pati_app1.jpg'
     alt: 'first image of your project.'
 worksImage2:
-    url: '/image-2.webp'
+    url: '/static/pati_pati_app2.jpg'
     alt: 'second image of your project.'
-platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
+platform: iOS, Android, Web
+stack: Flutter, Firebase, Riverpod, Rest API, Figma
+website: https://web.patipati.app/
 github: https://github.com/ttomczak3/Milky-Way
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+Pati pati is a Tinder-like pet adoption app that focuses on fast 2-tap pet adoption with a good UI. I am a Flutter developer and UI/UX designer on this project and use MVVM architecture with Riverpod for state management.

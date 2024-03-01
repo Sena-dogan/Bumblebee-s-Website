@@ -12,7 +12,7 @@ worksImage2:
     url: 'https://framerusercontent.com/images/bwbN8hTZZfrby5NVMxnCGoSjXzc.png'
     alt: 'second image of your project.'
 platform: Android, iOS
-stack: Flutter, Dart, Mobx, GetIt
+stack: Flutter, Firebase, Dart, Mobx, GetIt
 website: https://www.tinywall.app/
 github: https://github.com/ttomczak3/Milky-Way
 ---

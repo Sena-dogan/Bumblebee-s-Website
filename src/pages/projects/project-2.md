@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/MarkdownWorksLayout.astro
 title: 'Project 2'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+description: 'Drinks and Cocktail Bar App'
 image:
-    url: '/GitHub.webp'
+    url: '/static/grog_logo.jpg'
     alt: 'GitHub wallpaper'
 worksImage1:
     url: '/image-1.webp'
@@ -11,10 +11,10 @@ worksImage1:
 worksImage2:
     url: '/image-2.webp'
     alt: 'second image of your project.'
-platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
+platform: iOS, Android, Web
+stack: Flutter, Riverpod, Firebase, Node.Js, Rest API, Figma
+website: https://www.linkedin.com/in/zeynep-sena-dogan/
 github: https://github.com/ttomczak3/Milky-Way
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+Grog is a drinks and cocktails app that makes drink selection easier. I am a Mobile Application Developer and UI/UX Designer on this project and use MVVM architecture with Riverpod for state management.
