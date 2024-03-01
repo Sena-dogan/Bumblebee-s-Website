@@ -1,20 +1,20 @@
 ---
 layout: ../../layouts/MarkdownWorksLayout.astro
-title: 'Project 3'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+title: 'MotivaLux'
+description: 'MotivaLux is a motivational app that features daily quotes and meditation resources.'
 image:
-    url: '/GitHub.webp'
+    url: '/static/motivalux.jpg'
     alt: 'GitHub wallpaper'
 worksImage1:
-    url: '/image-1.webp'
+    url: '/static/motivalux1.jpg'
     alt: 'first image of your project.'
 worksImage2:
-    url: '/image-2.webp'
+    url: '/static/motivalux2.jpg'
     alt: 'second image of your project.'
-platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
+platform: iOS, Android
+stack: Flutter, Riverpod, Firebase, Figma
+website: https://www.linkedin.com/in/zeynep-sena-dogan/
 github: https://github.com/ttomczak3/Milky-Way
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+As a Flutter Developer and UI/UX Designer, I'm developing a motivational app using MVVM and Riverpod, featuring daily quotes and meditation resources.
