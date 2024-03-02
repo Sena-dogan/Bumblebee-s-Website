@@ -3,13 +3,13 @@ layout: ../../layouts/MarkdownWorksLayout.astro
 title: 'GroG'
 description: 'Drinks and Cocktail Bar App'
 image:
-    url: '/static/grog_logo.jpg'
+    url: '/grog_logo.jpg'
     alt: 'GitHub wallpaper'
 worksImage1:
-    url: '/static/grog1.jpg'
+    url: '/grog1.jpg'
     alt: 'first image of your project.'
 worksImage2:
-    url: '/static/gorg2.jpg'
+    url: '/gorg2.jpg'
     alt: 'second image of your project.'
 platform: iOS, Android, Web
 stack: Flutter, Riverpod, Firebase, Node.Js, Rest API, Figma

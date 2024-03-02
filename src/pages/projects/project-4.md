@@ -3,13 +3,13 @@ layout: ../../layouts/MarkdownWorksLayout.astro
 title: 'GOHouse'
 description: 'GOHouse is a mobile app for about online house chores services.'
 image:
-    url: '/static/go_house.jpg'
+    url: '/go_house.jpg'
     alt: 'GitHub wallpaper'
 worksImage1:
-    url: '/static/go_house.jpg'
+    url: '/go_house.jpg'
     alt: 'first image of your project.'
 worksImage2:
-    url: '/static/go_house2.jpg'
+    url: '/go_house2.jpg'
     alt: 'second image of your project.'
 platform: iOS, Android
 stack: Flutter, Firebase, Dart, Mobx, GetIt

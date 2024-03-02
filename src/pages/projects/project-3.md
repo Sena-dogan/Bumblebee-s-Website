@@ -3,13 +3,13 @@ layout: ../../layouts/MarkdownWorksLayout.astro
 title: 'MotivaLux'
 description: 'MotivaLux is a motivational app that features daily quotes and meditation resources.'
 image:
-    url: '/static/motivalux.jpg'
+    url: '/motivalux.jpg'
     alt: 'GitHub wallpaper'
 worksImage1:
-    url: '/static/motivalux1.jpg'
+    url: '/motivalux1.jpg'
     alt: 'first image of your project.'
 worksImage2:
-    url: '/static/motivalux2.jpg'
+    url: '/motivalux2.jpg'
     alt: 'second image of your project.'
 platform: iOS, Android
 stack: Flutter, Riverpod, Firebase, Figma

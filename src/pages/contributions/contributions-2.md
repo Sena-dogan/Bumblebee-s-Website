@@ -3,13 +3,13 @@ layout: ../../layouts/MarkdownWorksLayout.astro
 title: 'Shipgrande'
 description: 'Shipping rate calculation system'
 image:
-    url: '/static/shipgrande.jpg'
+    url: '/shipgrande.jpg'
     alt: 'GitHub wallpaper'
 worksImage1:
-    url: '/static/shipgrande.jpg'
+    url: '/shipgrande.jpg'
     alt: 'first image of your project.'
 worksImage2:
-    url: '/static/shipgrande2.jpg'
+    url: '/shipgrande2.jpg'
     alt: 'second image of your project.'
 platform: Web
 stack: Flutter, Dart, MobX, Riverpod
